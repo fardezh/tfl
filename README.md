@@ -14,7 +14,7 @@
 
 در شروع پروژه، صفحه اصلی رو مشاهده میکنیم، پس از نمایش اعلان بالای صفحه که نشان دهنده‌ی لود شدن کامل MobileNet هست میتوان از ابزار استفاده کرد
 
-![[assets/First-screen.png]]
+!["pic"](https://github.com/fardezh/tfl/blob/main/assets/First-screen.png)
 
 ## روش کار
 
